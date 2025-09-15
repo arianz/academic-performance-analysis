@@ -29,7 +29,7 @@ The `grades.csv` file contains academic data with the following columns:
 ## Installation and Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/[Your-Username]/academic-performance-analysis.git
+   git clone https://github.com/arianz/academic-performance-analysis.git
    ```
 2. Navigate to the project directory:
    ```bash
